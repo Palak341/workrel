@@ -16,5 +16,6 @@ Passionate developer transforming ideas into innovative solutions.✨⚡
   
 - [Space Game ](https://github.com/Palak341/space_game)
 -  - The game format makes learning about space interactive and enjoyable, combining education with entertainment.🚀✨
-## Certificates 
+## Certificates 🏆📜
 [Imp Certificates ](https://github.com/Palak341/Certificates)
+-Awarded in recognition of exemplary achievements and outstanding dedication.🏅
