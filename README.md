@@ -1,4 +1,4 @@
-# hey there 👋🌱
+# hey there!! 👋🌱
 Passionate developer transforming ideas into innovative solutions.✨⚡
 # 💫 About Me:
 🔭 I’m currently working on<br>🌱 I’m currently learning DBMS and data analytics <br>⚡ studying B.Tech in Information Technology from IGDTUW!
