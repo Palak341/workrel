@@ -13,4 +13,4 @@ Passionate developer transforming ideas into innovative solutions.✨⚡
 
 - [Period Calculator ](https://github.com/Palak341/period_calculator)-It offers insights into menstrual health, detects irregularities, and supports fertility planning and overall well-being.🌸🗓️
   
-- [space Game ](https://github.com/Palak341/space_game) - The game format makes learning about space interactive and enjoyable, combining education with entertainment.🚀✨
+- [Space Game ](https://github.com/Palak341/space_game) - The game format makes learning about space interactive and enjoyable, combining education with entertainment.🚀✨
