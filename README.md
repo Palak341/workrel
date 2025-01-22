@@ -1,2 +1,3 @@
-# workrel
-Passionate developer transforming ideas into innovative solutions.
+# hey there 👋🌱
+Passionate developer transforming ideas into innovative solutions.✨⚡
+
