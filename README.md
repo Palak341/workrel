@@ -17,7 +17,7 @@ Passionate developer transforming ideas into innovative solutions.✨⚡
 - [Space Game ](https://github.com/Palak341/space_game)
   The game format makes learning about space interactive and enjoyable, combining education with entertainment.🚀✨
 
--[Girlsync ]((https://github.com/Palak341/Girlsync))
+- [Girlsync ]((https://github.com/Palak341/Girlsync))
   GirlSync is a web-based health tool designed to help individuals track their menstrual health and assess their PCOS risk.🌸✨
 ## Certificates 🏆📜
 [Imp Certificates ](https://github.com/Palak341/Certificates)
